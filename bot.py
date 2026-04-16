@@ -54,10 +54,10 @@ from telethon.tl.types import ReactionEmoji
 # ║                    CONFIGURATION                             ║
 # ╚══════════════════════════════════════════════════════════════╝
 
-BOT_TOKEN = "8367562923:AAE0vnjRXBHPj0cja_hoc_oQLSjAPU9wHww"
-API_ID = 30995906
-API_HASH = "07d2a5d554438de69001bda68e5cb7bd"
-ADMIN_ID = 8624480309
+BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = 123456
+API_HASH = "YOUR_API_HASH"
+ADMIN_IDS = [123456789]
 SUPPORT_USERNAME = "@itsukiarai"
 SUPPORT_URL = "https://t.me/itsukiarai"
 BOT_NAME = "SkullAutomation"
