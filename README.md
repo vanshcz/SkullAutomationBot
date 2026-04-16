@@ -1,0 +1,2 @@
+# SkullAutomationBot
+SkullAutomationBot
